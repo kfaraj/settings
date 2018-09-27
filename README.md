@@ -1,7 +1,7 @@
 Settings
 ========
 
-Settings for Android Studio 3.1
+Settings for Android Studio 3.2
 
 Editor > Color Scheme
 ---------------------
@@ -30,6 +30,7 @@ Java > Blank Lines > Minimum Blank Lines > Around method (0)
 Java > JavaDoc > Alignment > Align parameter descriptions (false)
 Java > JavaDoc > Alignment > Align thrown exception descriptions (false)
 Java > Imports > General > Insert imports for inner classes (true)
+Java > Imports > Import Layout (android, androidx, ...)
 XML > Other > Keep line breaks (true)
 XML > Other > Keep blank lines (1)
 XML > Android > AndroidManifest.xml > Group tags with the same name (false)
