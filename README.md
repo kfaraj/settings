@@ -1,7 +1,7 @@
 Settings
 ========
 
-Settings for Android Studio 3.2
+Settings for Android Studio 3.3
 
 Editor > Color Scheme
 ---------------------
