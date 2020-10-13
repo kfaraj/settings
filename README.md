@@ -1,7 +1,15 @@
 Settings
 ========
 
-Settings for Android Studio 4.0
+Settings for Android Studio 4.1
+
+Editor > General
+----------------
+
+```
+Save Files > Ensure an empty line at the end of a file on Save (true)
+```
+
 
 Editor > Code Style > Java
 --------------------------
@@ -11,6 +19,7 @@ Set from... > Android
 Wrapping and Braces > Method declaration parameters > Align when multiline (false)
 Wrapping and Braces > 'for()' statement > Align when multiline (false)
 Wrapping and Braces > 'try-with-resources' > Align when multiline (false)
+Wrapping and Braces > Record components > Align when multiline (false)
 JavaDoc > Alignment > Align parameter descriptions (false)
 JavaDoc > Alignment > Align thrown exception descriptions (false)
 Imports > General > Insert imports for inner classes (true)
