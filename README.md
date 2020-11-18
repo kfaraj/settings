@@ -1,18 +1,14 @@
-Settings
-========
+# Settings
 
-Settings for Android Studio 4.1
+This project contains settings for [Android Studio](https://developer.android.com/studio).
 
-Editor > General
-----------------
+## Editor > General
 
 ```
 Save Files > Ensure an empty line at the end of a file on Save (true)
 ```
 
-
-Editor > Code Style > Java
---------------------------
+## Editor > Code Style > Java
 
 ```
 Set from... > Android
@@ -25,8 +21,7 @@ JavaDoc > Alignment > Align thrown exception descriptions (false)
 Imports > General > Insert imports for inner classes (true)
 ```
 
-Editor > Code Style > Kotlin
-----------------------------
+## Editor > Code Style > Kotlin
 
 ```
 Set from... > Kotlin style guide
@@ -35,8 +30,7 @@ Imports > Java Statics and Enum Members > Use import with '*' when at least (99)
 Imports > Other > Insert imports for nested classes (true)
 ```
 
-Editor > Code Style > XML
--------------------------
+## Editor > Code Style > XML
 
 ```
 Set from... > Android
