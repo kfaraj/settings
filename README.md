@@ -5,7 +5,7 @@ This project contains settings for [Android Studio](https://developer.android.co
 ## Editor > General
 
 ```
-Save Files > Ensure an empty line at the end of a file on Save (true)
+On Save > Ensure every saved file ends with a line break (true)
 ```
 
 ## Editor > Code Style > Java
@@ -25,7 +25,7 @@ Imports > General > Insert imports for inner classes (true)
 
 ```
 Set from... > Kotlin style guide
-Imports > Top-level Symbols > Use import with '*' when at least (99) names used
+Imports > Top-Level Symbols > Use import with '*' when at least (99) names used
 Imports > Java Statics and Enum Members > Use import with '*' when at least (99) names used
 Imports > Other > Insert imports for nested classes (true)
 ```
