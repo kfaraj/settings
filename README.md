@@ -18,7 +18,6 @@ Wrapping and Braces > 'try-with-resources' > Align when multiline (false)
 Wrapping and Braces > Record components > Align when multiline (false)
 JavaDoc > Alignment > Align parameter descriptions (false)
 JavaDoc > Alignment > Align thrown exception descriptions (false)
-Imports > General > Insert imports for inner classes (true)
 ```
 
 ## Editor > Code Style > Kotlin
@@ -27,7 +26,6 @@ Imports > General > Insert imports for inner classes (true)
 Set from... > Kotlin style guide
 Imports > Top-Level Symbols > Use import with '*' when at least (99) names used
 Imports > Java Statics and Enum Members > Use import with '*' when at least (99) names used
-Imports > Other > Insert imports for nested classes (true)
 ```
 
 ## Editor > Code Style > XML
