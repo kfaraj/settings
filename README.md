@@ -24,8 +24,7 @@ JavaDoc > Alignment > Align thrown exception descriptions (false)
 
 ```
 Set from... > Kotlin style guide
-Imports > Top-Level Symbols > Use import with '*' when at least (99) names used
-Imports > Java Statics and Enum Members > Use import with '*' when at least (99) names used
+Wrapping and Braces > 'when' statements > New line after multiline entry (false)
 ```
 
 ## Editor > Code Style > XML
