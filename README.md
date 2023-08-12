@@ -15,6 +15,7 @@ Set from... > Android
 Wrapping and Braces > Method declaration parameters > Align when multiline (false)
 Wrapping and Braces > 'for()' statement > Align when multiline (false)
 Wrapping and Braces > 'try-with-resources' > Align when multiline (false)
+Wrapping and Braces > 'try' statement > Align types in multi-catch (false)
 Wrapping and Braces > Record components > Align when multiline (false)
 JavaDoc > Alignment > Align parameter descriptions (false)
 JavaDoc > Alignment > Align thrown exception descriptions (false)
@@ -32,6 +33,7 @@ Wrapping and Braces > 'when' statements > New line after multiline entry (false)
 ```
 Set from... > Android
 Other > Keep line breaks (true)
+Other > Wrap text (false)
 Android > AndroidManifest.xml > Group tags with the same name (false)
 Android > Value Resource Files and Selectors > Insert line breaks around style declaration (false)
 ```
