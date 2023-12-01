@@ -11,7 +11,6 @@ On Save > Ensure every saved file ends with a line break (true)
 ## Editor > Code Style > Java
 
 ```
-Set from... > Android
 Wrapping and Braces > Method declaration parameters > Align when multiline (false)
 Wrapping and Braces > 'for()' statement > Align when multiline (false)
 Wrapping and Braces > 'try-with-resources' > Align when multiline (false)
@@ -31,7 +30,6 @@ Wrapping and Braces > 'when' statements > New line after multiline entry (false)
 ## Editor > Code Style > XML
 
 ```
-Set from... > Android
 Other > Keep line breaks (true)
 Other > Wrap text (false)
 Android > AndroidManifest.xml > Group tags with the same name (false)
