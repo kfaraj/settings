@@ -16,6 +16,7 @@ Wrapping and Braces > 'for()' statement > Align when multiline (false)
 Wrapping and Braces > 'try-with-resources' > Align when multiline (false)
 Wrapping and Braces > 'try' statement > Align types in multi-catch (false)
 Wrapping and Braces > Record components > Align when multiline (false)
+Wrapping and Braces > Deconstruction patterns > Align when multiline (false)
 JavaDoc > Alignment > Align parameter descriptions (false)
 JavaDoc > Alignment > Align thrown exception descriptions (false)
 ```
