@@ -25,6 +25,7 @@ JavaDoc > Alignment > Align thrown exception descriptions (false)
 
 ```
 Set from... > Kotlin style guide
+Wrapping and Braces > Function declaration parameters > Align when multiline (false)
 Wrapping and Braces > 'when' statements > New line after multiline entry (false)
 ```
 
