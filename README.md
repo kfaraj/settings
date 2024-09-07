@@ -2,6 +2,11 @@
 
 This project contains settings for [Android Studio](https://developer.android.com/studio).
 
+It adheres to the following rules:
+
+- [Java style guide](https://source.android.com/docs/setup/contribute/code-style)
+- [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
+
 ## Editor > General
 
 ```
