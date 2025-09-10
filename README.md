@@ -1,14 +1,15 @@
 # Settings
 
-This project contains settings for [Android Studio](https://developer.android.com/studio).
+This repository contains settings for [Android Studio](https://developer.android.com/studio).
 
 It adheres to the following rules:
 
 - [Java style guide](https://source.android.com/docs/setup/contribute/code-style)
 - [Kotlin style guide](https://developer.android.com/kotlin/style-guide)
 
-> **Note:** Starting from Android Studio Ladybug, general settings cannot be exported and must be
-> configured manually.
+> [!NOTE]
+> Starting from Android Studio Ladybug, general settings cannot be exported and must be configured
+> manually.
 
 ## Editor > General
 
