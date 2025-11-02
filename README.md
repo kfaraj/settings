@@ -11,6 +11,21 @@ It adheres to the following rules:
 > Starting from Android Studio Ladybug, general settings cannot be exported and must be configured
 > manually.
 
+> [!IMPORTANT]
+> This branch contains personal settings, consider switching to the main branch instead.
+
+## Appearance & Behavior > Appearance
+
+```
+Theme > Sync with OS (true)
+```
+
+## Appearance & Behavior > System Settings > Memory Settings
+
+```
+IDE max heap size (4096 MB)
+```
+
 ## Editor > General
 
 ```
@@ -45,4 +60,16 @@ Other > Keep line breaks (true)
 Other > Wrap text (false)
 Android > AndroidManifest.xml > Group tags with the same name (false)
 Android > Value Resource Files and Selectors > Insert line breaks around style declaration (false)
+```
+
+## Plugins
+
+```
+Kotlin Multiplatform > Install
+```
+
+## Tools > Google Accounts
+
+```
+Add new account
 ```
