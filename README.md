@@ -11,6 +11,21 @@ It adheres to the following rules:
 > Starting from Android Studio Ladybug, general settings cannot be exported and must be configured
 > manually.
 
+> [!IMPORTANT]
+> This branch contains personal settings, consider switching to the main branch instead.
+
+## Appearance & Behavior > Appearance
+
+```
+Theme > Sync with OS (true)
+```
+
+## Appearance & Behavior > System Settings > Memory Settings
+
+```
+IDE max heap size (8192 MB)
+```
+
 ## Editor > General
 
 ```
